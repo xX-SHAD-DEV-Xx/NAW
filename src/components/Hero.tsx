@@ -28,7 +28,7 @@ const Hero: React.FC = () => {
           </p>
           <div className="flex flex-wrap justify-center gap-3 mt-4">
             <span className="px-3 py-1 bg-white/20 rounded-full text-sm">وەرگیراو لە سروشت</span>
-            <span className="px-3 py-1 bg-white/20 rounded-full text-sm">خۆشەوەیستی</span>
+            <span className="px-3 py-1 bg-white/20 rounded-full text-sm">خۆشەویستی</span>
             <span className="px-3 py-1 bg-white/20 rounded-full text-sm">ناوە باوەکان</span>
             <span className="px-3 py-1 bg-white/20 rounded-full text-sm">کەسایەتی ناودار</span>
           </div>
