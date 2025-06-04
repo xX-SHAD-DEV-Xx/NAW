@@ -56,7 +56,7 @@ export const names: Name[] = [
   { id: '40', name: 'بەفرین', meaning: 'لە بەفر دروستبوو', gender: 'female', popularity: 7, category: 'Nature' },
   
   // Love Names
-  { id: '41', name: 'ژواب', meaning: 'ڕۆژێکی دیاریکراو', gender: '-unisex', popularity: 7, category: 'love' },
+  { id: '41', name: 'ژوان', meaning: 'ڕۆژێکی دیاریکراو', gender: '-unisex', popularity: 7, category: 'love' },
   { id: '42', name: 'دیاری', meaning: 'بەخشین', gender: 'male', popularity: 8, category: 'love' },
   { id: '43', name: 'سۆز', meaning: 'میهرەبانی', gender: 'female', popularity: 8, category: 'love' },
   { id: '44', name: 'یار', meaning: 'دۆست، خۆشەویست', gender: 'female', popularity: 6, category: 'love' },
